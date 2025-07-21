@@ -1,0 +1,234 @@
+duration_bucket,rideable_type,year,member_casual,number_of_rides
+<5 min,classic_bike,2020,casual,1001
+<5 min,classic_bike,2020,member,12413
+<5 min,classic_bike,2021,casual,92759
+<5 min,classic_bike,2021,member,381617
+<5 min,classic_bike,2022,casual,89324
+<5 min,classic_bike,2022,member,373244
+<5 min,classic_bike,2023,casual,95959
+<5 min,classic_bike,2023,member,427139
+<5 min,classic_bike,2024,casual,86394
+<5 min,classic_bike,2024,member,389758
+<5 min,docked_bike,2020,casual,49300
+<5 min,docked_bike,2020,member,284591
+<5 min,docked_bike,2021,casual,8033
+<5 min,docked_bike,2021,member,1
+<5 min,docked_bike,2022,casual,5914
+<5 min,docked_bike,2023,casual,2693
+<5 min,electric_bike,2020,casual,24912
+<5 min,electric_bike,2020,member,62740
+<5 min,electric_bike,2021,casual,113568
+<5 min,electric_bike,2021,member,257496
+<5 min,electric_bike,2022,casual,211026
+<5 min,electric_bike,2022,member,432639
+<5 min,electric_bike,2023,casual,229415
+<5 min,electric_bike,2023,member,502880
+<5 min,electric_bike,2024,casual,233458
+<5 min,electric_bike,2024,member,488150
+<5 min,electric_scooter,2024,casual,22412
+<5 min,electric_scooter,2024,member,21105
+<5 min,unknown,2019,casual,18514
+<5 min,unknown,2019,member,504290
+5-10,classic_bike,2020,casual,2789
+5-10,classic_bike,2020,member,19375
+5-10,classic_bike,2021,casual,255180
+5-10,classic_bike,2021,member,611262
+5-10,classic_bike,2022,casual,199207
+5-10,classic_bike,2022,member,533210
+5-10,classic_bike,2023,casual,198970
+5-10,classic_bike,2023,member,581032
+5-10,classic_bike,2024,casual,200533
+5-10,classic_bike,2024,member,561625
+5-10,docked_bike,2020,casual,138328
+5-10,docked_bike,2020,member,505112
+5-10,docked_bike,2021,casual,24757
+5-10,docked_bike,2022,casual,14542
+5-10,docked_bike,2023,casual,6738
+5-10,electric_bike,2020,casual,48085
+5-10,electric_bike,2020,member,91410
+5-10,electric_bike,2021,casual,237634
+5-10,electric_bike,2021,member,342339
+5-10,electric_bike,2022,casual,360351
+5-10,electric_bike,2022,member,537194
+5-10,electric_bike,2023,casual,336245
+5-10,electric_bike,2023,member,608286
+5-10,electric_bike,2024,casual,324397
+5-10,electric_bike,2024,member,632260
+5-10,electric_scooter,2024,casual,28329
+5-10,electric_scooter,2024,member,21355
+5-10,unknown,2019,casual,84717
+5-10,unknown,2019,member,995144
+10-20,classic_bike,2020,casual,3565
+10-20,classic_bike,2020,member,17185
+10-20,classic_bike,2021,casual,413222
+10-20,classic_bike,2021,member,608916
+10-20,classic_bike,2022,casual,282873
+10-20,classic_bike,2022,member,490587
+10-20,classic_bike,2023,casual,265075
+10-20,classic_bike,2023,member,500819
+10-20,classic_bike,2024,casual,288617
+10-20,classic_bike,2024,member,492539
+10-20,docked_bike,2020,casual,305299
+10-20,docked_bike,2020,member,571630
+10-20,docked_bike,2021,casual,67564
+10-20,docked_bike,2022,casual,39129
+10-20,docked_bike,2023,casual,16846
+10-20,electric_bike,2020,casual,64007
+10-20,electric_bike,2020,member,85638
+10-20,electric_bike,2021,casual,303018
+10-20,electric_bike,2021,member,304037
+10-20,electric_bike,2022,casual,383437
+10-20,electric_bike,2022,member,452487
+10-20,electric_bike,2023,casual,320033
+10-20,electric_bike,2023,member,518087
+10-20,electric_bike,2024,casual,312754
+10-20,electric_bike,2024,member,547223
+10-20,electric_scooter,2024,casual,22116
+10-20,electric_scooter,2024,member,13495
+10-20,unknown,2019,casual,218446
+10-20,unknown,2019,member,947368
+20-30,classic_bike,2020,casual,1674
+20-30,classic_bike,2020,member,6225
+20-30,classic_bike,2021,casual,205829
+20-30,classic_bike,2021,member,224891
+20-30,classic_bike,2022,casual,128382
+20-30,classic_bike,2022,member,180248
+20-30,classic_bike,2023,casual,122363
+20-30,classic_bike,2023,member,176989
+20-30,classic_bike,2024,casual,144370
+20-30,classic_bike,2024,member,176748
+20-30,docked_bike,2020,casual,216683
+20-30,docked_bike,2020,member,258047
+20-30,docked_bike,2021,casual,62293
+20-30,docked_bike,2022,casual,35345
+20-30,docked_bike,2023,casual,14682
+20-30,electric_bike,2020,casual,28968
+20-30,electric_bike,2020,member,30502
+20-30,electric_bike,2021,casual,134056
+20-30,electric_bike,2021,member,104869
+20-30,electric_bike,2022,casual,146002
+20-30,electric_bike,2022,member,134294
+20-30,electric_bike,2023,casual,112719
+20-30,electric_bike,2023,member,140285
+20-30,electric_bike,2024,casual,110664
+20-30,electric_bike,2024,member,147644
+20-30,electric_scooter,2024,casual,6973
+20-30,electric_scooter,2024,member,2474
+20-30,unknown,2019,casual,197500
+20-30,unknown,2019,member,322549
+30-60,classic_bike,2020,casual,1493
+30-60,classic_bike,2020,member,3851
+30-60,classic_bike,2021,casual,193625
+30-60,classic_bike,2021,member,143260
+30-60,classic_bike,2022,casual,122950
+30-60,classic_bike,2022,member,120589
+30-60,classic_bike,2023,casual,121948
+30-60,classic_bike,2023,member,120110
+30-60,classic_bike,2024,casual,155098
+30-60,classic_bike,2024,member,126651
+30-60,docked_bike,2020,casual,237411
+30-60,docked_bike,2020,member,177560
+30-60,docked_bike,2021,casual,77508
+30-60,docked_bike,2022,casual,41963
+30-60,docked_bike,2023,casual,18274
+30-60,electric_bike,2020,casual,28737
+30-60,electric_bike,2020,member,21945
+30-60,electric_bike,2021,casual,115838
+30-60,electric_bike,2021,member,62821
+30-60,electric_bike,2022,casual,114818
+30-60,electric_bike,2022,member,67393
+30-60,electric_bike,2023,casual,82164
+30-60,electric_bike,2023,member,58827
+30-60,electric_bike,2024,casual,83405
+30-60,electric_bike,2024,member,61084
+30-60,electric_scooter,2024,casual,4369
+30-60,electric_scooter,2024,member,641
+30-60,unknown,2019,casual,215869
+30-60,unknown,2019,member,155764
+1-2 hr,classic_bike,2020,casual,572
+1-2 hr,classic_bike,2020,member,158
+1-2 hr,classic_bike,2021,casual,79099
+1-2 hr,classic_bike,2021,member,10289
+1-2 hr,classic_bike,2022,casual,50343
+1-2 hr,classic_bike,2022,member,8345
+1-2 hr,classic_bike,2023,casual,51371
+1-2 hr,classic_bike,2023,member,8514
+1-2 hr,classic_bike,2024,casual,68752
+1-2 hr,classic_bike,2024,member,8837
+1-2 hr,docked_bike,2020,casual,135969
+1-2 hr,docked_bike,2020,member,11828
+1-2 hr,docked_bike,2021,casual,47176
+1-2 hr,docked_bike,2022,casual,25183
+1-2 hr,docked_bike,2023,casual,11174
+1-2 hr,electric_bike,2020,casual,12672
+1-2 hr,electric_bike,2020,member,2678
+1-2 hr,electric_bike,2021,casual,38851
+1-2 hr,electric_bike,2021,member,7340
+1-2 hr,electric_bike,2022,casual,32793
+1-2 hr,electric_bike,2022,member,8773
+1-2 hr,electric_bike,2023,casual,20868
+1-2 hr,electric_bike,2023,member,8612
+1-2 hr,electric_bike,2024,casual,23798
+1-2 hr,electric_bike,2024,member,8791
+1-2 hr,electric_scooter,2024,casual,874
+1-2 hr,electric_scooter,2024,member,48
+1-2 hr,unknown,2019,casual,106898
+1-2 hr,unknown,2019,member,8375
+2-4 hr,classic_bike,2020,casual,179
+2-4 hr,classic_bike,2020,member,36
+2-4 hr,classic_bike,2021,casual,20185
+2-4 hr,classic_bike,2021,member,2066
+2-4 hr,classic_bike,2022,casual,12986
+2-4 hr,classic_bike,2022,member,1506
+2-4 hr,classic_bike,2023,casual,13345
+2-4 hr,classic_bike,2023,member,1669
+2-4 hr,classic_bike,2024,casual,19576
+2-4 hr,classic_bike,2024,member,1481
+2-4 hr,docked_bike,2020,casual,46846
+2-4 hr,docked_bike,2020,member,2690
+2-4 hr,docked_bike,2021,casual,18730
+2-4 hr,docked_bike,2022,casual,10549
+2-4 hr,docked_bike,2023,casual,4436
+2-4 hr,electric_bike,2020,casual,1677
+2-4 hr,electric_bike,2020,member,419
+2-4 hr,electric_bike,2021,casual,6103
+2-4 hr,electric_bike,2021,member,1998
+2-4 hr,electric_bike,2022,casual,4271
+2-4 hr,electric_bike,2022,member,2291
+2-4 hr,electric_bike,2023,casual,2193
+2-4 hr,electric_bike,2023,member,2957
+2-4 hr,electric_bike,2024,casual,2602
+2-4 hr,electric_bike,2024,member,2525
+2-4 hr,electric_scooter,2024,casual,120
+2-4 hr,electric_scooter,2024,member,2
+2-4 hr,unknown,2019,casual,31923
+2-4 hr,unknown,2019,member,1713
+>4 hr,classic_bike,2020,casual,27
+>4 hr,classic_bike,2020,member,44
+>4 hr,classic_bike,2021,casual,4559
+>4 hr,classic_bike,2021,member,1524
+>4 hr,classic_bike,2022,casual,2770
+>4 hr,classic_bike,2022,member,1292
+>4 hr,classic_bike,2023,casual,4022
+>4 hr,classic_bike,2023,member,1683
+>4 hr,classic_bike,2024,casual,5464
+>4 hr,classic_bike,2024,member,1581
+>4 hr,docked_bike,2020,casual,10390
+>4 hr,docked_bike,2020,member,1353
+>4 hr,docked_bike,2021,casual,4920
+>4 hr,docked_bike,2022,casual,2812
+>4 hr,docked_bike,2023,casual,1984
+>4 hr,electric_bike,2020,casual,89
+>4 hr,electric_bike,2020,member,59
+>4 hr,electric_bike,2021,casual,910
+>4 hr,electric_bike,2021,member,755
+>4 hr,electric_bike,2022,casual,360
+>4 hr,electric_bike,2022,member,824
+>4 hr,electric_bike,2023,casual,253
+>4 hr,electric_bike,2023,member,1523
+>4 hr,electric_bike,2024,casual,291
+>4 hr,electric_bike,2024,member,1278
+>4 hr,electric_scooter,2024,casual,22
+>4 hr,electric_scooter,2024,member,2
+>4 hr,unknown,2019,casual,5416
+>4 hr,unknown,2019,member,1656

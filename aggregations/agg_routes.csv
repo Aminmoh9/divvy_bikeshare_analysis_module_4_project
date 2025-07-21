@@ -1,0 +1,121 @@
+route,year,member_casual,number_of_rides
+Lake Shore Dr & Monroe St → Streeter Dr & Grand Ave,2019,casual,9348
+Streeter Dr & Grand Ave → Streeter Dr & Grand Ave,2019,casual,8632
+Lake Shore Dr & Monroe St → Lake Shore Dr & Monroe St,2019,casual,8052
+Michigan Ave & Oak St → Michigan Ave & Oak St,2019,casual,4990
+Shedd Aquarium → Streeter Dr & Grand Ave,2019,casual,3527
+Streeter Dr & Grand Ave → Millennium Park,2019,casual,3149
+Millennium Park → Millennium Park,2019,casual,2920
+Streeter Dr & Grand Ave → Lake Shore Dr & Monroe St,2019,casual,2903
+Millennium Park → Streeter Dr & Grand Ave,2019,casual,2876
+Montrose Harbor → Montrose Harbor,2019,casual,2625
+Canal St & Adams St → Michigan Ave & Washington St,2019,member,3538
+Michigan Ave & Washington St → Clinton St & Washington Blvd,2019,member,2777
+Columbus Dr & Randolph St → Clinton St & Washington Blvd,2019,member,2640
+Michigan Ave & Washington St → Canal St & Adams St,2019,member,2537
+Canal St & Madison St → Michigan Ave & Washington St,2019,member,2328
+Clinton St & Washington Blvd → Michigan Ave & Washington St,2019,member,2232
+Columbus Dr & Randolph St → State St & Randolph St,2019,member,2188
+Wacker Dr & Washington St → Michigan Ave & Washington St,2019,member,2121
+Columbus Dr & Randolph St → Canal St & Adams St,2019,member,2115
+MLK Jr Dr & 29th St → State St & 33rd St,2019,member,2005
+Streeter Dr & Grand Ave → Streeter Dr & Grand Ave,2020,casual,5817
+Lake Shore Dr & Monroe St → Lake Shore Dr & Monroe St,2020,casual,5676
+Buckingham Fountain → Buckingham Fountain,2020,casual,4674
+Millennium Park → Millennium Park,2020,casual,4661
+HQ QR → HQ QR,2020,casual,3764
+Indiana Ave & Roosevelt Rd → Indiana Ave & Roosevelt Rd,2020,casual,3729
+Michigan Ave & Oak St → Michigan Ave & Oak St,2020,casual,3469
+Fort Dearborn Dr & 31st St → Fort Dearborn Dr & 31st St,2020,casual,3074
+Michigan Ave & 8th St → Michigan Ave & 8th St,2020,casual,3024
+Shore Dr & 55th St → Shore Dr & 55th St,2020,casual,2887
+MLK Jr Dr & 29th St → State St & 33rd St,2020,member,1189
+Clark St & Elm St → Clark St & Elm St,2020,member,1091
+Lake Shore Dr & Wellington Ave → Lake Shore Dr & Wellington Ave,2020,member,1086
+State St & 33rd St → MLK Jr Dr & 29th St,2020,member,1031
+Burnham Harbor → Burnham Harbor,2020,member,1026
+Lake Shore Dr & Belmont Ave → Lake Shore Dr & Belmont Ave,2020,member,1002
+Montrose Harbor → Montrose Harbor,2020,member,989
+Theater on the Lake → Theater on the Lake,2020,member,986
+Lakefront Trail & Bryn Mawr Ave → Lakefront Trail & Bryn Mawr Ave,2020,member,960
+Indiana Ave & Roosevelt Rd → Indiana Ave & Roosevelt Rd,2020,member,949
+Streeter Dr & Grand Ave → Streeter Dr & Grand Ave,2021,casual,11683
+Millennium Park → Millennium Park,2021,casual,6111
+Michigan Ave & Oak St → Michigan Ave & Oak St,2021,casual,5900
+Lake Shore Dr & Monroe St → Lake Shore Dr & Monroe St,2021,casual,4669
+Buckingham Fountain → Buckingham Fountain,2021,casual,3445
+Streeter Dr & Grand Ave → Millennium Park,2021,casual,3309
+Theater on the Lake → Theater on the Lake,2021,casual,3219
+DuSable Lake Shore Dr & Monroe St → DuSable Lake Shore Dr & Monroe St,2021,casual,3116
+Montrose Harbor → Montrose Harbor,2021,casual,3028
+Shedd Aquarium → Shedd Aquarium,2021,casual,2931
+Ellis Ave & 60th St → Ellis Ave & 55th St,2021,member,4082
+Ellis Ave & 55th St → Ellis Ave & 60th St,2021,member,3652
+Ellis Ave & 60th St → University Ave & 57th St,2021,member,3109
+University Ave & 57th St → Ellis Ave & 60th St,2021,member,3010
+Calumet Ave & 33rd St → State St & 33rd St,2021,member,1989
+State St & 33rd St → Calumet Ave & 33rd St,2021,member,1954
+Loomis St & Lexington St → Morgan St & Polk St,2021,member,1860
+Morgan St & Polk St → Loomis St & Lexington St,2021,member,1653
+MLK Jr Dr & 29th St → State St & 33rd St,2021,member,1422
+State St & 33rd St → MLK Jr Dr & 29th St,2021,member,1392
+Streeter Dr & Grand Ave → Streeter Dr & Grand Ave,2022,casual,10632
+DuSable Lake Shore Dr & Monroe St → DuSable Lake Shore Dr & Monroe St,2022,casual,6615
+DuSable Lake Shore Dr & Monroe St → Streeter Dr & Grand Ave,2022,casual,5100
+Michigan Ave & Oak St → Michigan Ave & Oak St,2022,casual,4612
+Millennium Park → Millennium Park,2022,casual,4061
+Montrose Harbor → Montrose Harbor,2022,casual,2939
+Streeter Dr & Grand Ave → DuSable Lake Shore Dr & Monroe St,2022,casual,2854
+Streeter Dr & Grand Ave → Millennium Park,2022,casual,2735
+Shedd Aquarium → Shedd Aquarium,2022,casual,2479
+DuSable Lake Shore Dr & North Blvd → DuSable Lake Shore Dr & North Blvd,2022,casual,2439
+Ellis Ave & 60th St → University Ave & 57th St,2022,member,5848
+University Ave & 57th St → Ellis Ave & 60th St,2022,member,5544
+Ellis Ave & 60th St → Ellis Ave & 55th St,2022,member,5278
+Ellis Ave & 55th St → Ellis Ave & 60th St,2022,member,4745
+State St & 33rd St → Calumet Ave & 33rd St,2022,member,3268
+Calumet Ave & 33rd St → State St & 33rd St,2022,member,3215
+Loomis St & Lexington St → Morgan St & Polk St,2022,member,2891
+Morgan St & Polk St → Loomis St & Lexington St,2022,member,2876
+University Ave & 57th St → Kimbark Ave & 53rd St,2022,member,2267
+Loomis St & Lexington St → Halsted St & Polk St,2022,member,2091
+Streeter Dr & Grand Ave → Streeter Dr & Grand Ave,2023,casual,8653
+DuSable Lake Shore Dr & Monroe St → DuSable Lake Shore Dr & Monroe St,2023,casual,6732
+DuSable Lake Shore Dr & Monroe St → Streeter Dr & Grand Ave,2023,casual,4626
+Michigan Ave & Oak St → Michigan Ave & Oak St,2023,casual,4260
+Millennium Park → Millennium Park,2023,casual,3427
+Dusable Harbor → Dusable Harbor,2023,casual,2799
+Montrose Harbor → Montrose Harbor,2023,casual,2529
+Streeter Dr & Grand Ave → DuSable Lake Shore Dr & Monroe St,2023,casual,2352
+DuSable Lake Shore Dr & North Blvd → DuSable Lake Shore Dr & North Blvd,2023,casual,2043
+Ellis Ave & 60th St → Ellis Ave & 55th St,2023,casual,2037
+Ellis Ave & 60th St → University Ave & 57th St,2023,member,5208
+Calumet Ave & 33rd St → State St & 33rd St,2023,member,5202
+State St & 33rd St → Calumet Ave & 33rd St,2023,member,5145
+University Ave & 57th St → Ellis Ave & 60th St,2023,member,4935
+Ellis Ave & 60th St → Ellis Ave & 55th St,2023,member,4929
+Ellis Ave & 55th St → Ellis Ave & 60th St,2023,member,4525
+Loomis St & Lexington St → Morgan St & Polk St,2023,member,3445
+Morgan St & Polk St → Loomis St & Lexington St,2023,member,3163
+MLK Jr Dr & 29th St → State St & 33rd St,2023,member,2528
+State St & 33rd St → MLK Jr Dr & 29th St,2023,member,2447
+Streeter Dr & Grand Ave → Streeter Dr & Grand Ave,2024,casual,8872
+DuSable Lake Shore Dr & Monroe St → DuSable Lake Shore Dr & Monroe St,2024,casual,7242
+DuSable Lake Shore Dr & Monroe St → Streeter Dr & Grand Ave,2024,casual,5265
+Michigan Ave & Oak St → Michigan Ave & Oak St,2024,casual,4620
+Millennium Park → Millennium Park,2024,casual,3378
+Dusable Harbor → Dusable Harbor,2024,casual,3109
+Streeter Dr & Grand Ave → DuSable Lake Shore Dr & Monroe St,2024,casual,2704
+Shedd Aquarium → Streeter Dr & Grand Ave,2024,casual,2395
+Dusable Harbor → Streeter Dr & Grand Ave,2024,casual,2377
+Montrose Harbor → Montrose Harbor,2024,casual,2346
+State St & 33rd St → Calumet Ave & 33rd St,2024,member,5587
+Calumet Ave & 33rd St → State St & 33rd St,2024,member,5506
+Ellis Ave & 60th St → University Ave & 57th St,2024,member,3988
+Ellis Ave & 60th St → Ellis Ave & 55th St,2024,member,3976
+University Ave & 57th St → Ellis Ave & 60th St,2024,member,3942
+Ellis Ave & 55th St → Ellis Ave & 60th St,2024,member,3837
+Loomis St & Lexington St → Morgan St & Polk St,2024,member,2592
+Morgan St & Polk St → Loomis St & Lexington St,2024,member,2259
+MLK Jr Dr & 29th St → State St & 33rd St,2024,member,1898
+University Ave & 57th St → Kimbark Ave & 53rd St,2024,member,1868

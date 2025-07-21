@@ -1,0 +1,41 @@
+{
+  "tableau": {
+    "url": "https://public.tableau.com/views/DivvyBikeShareAnalysis_17530696403280/DivvyBikeShareAnalysis-2019-2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    "hideTabs": true,
+    "height": 800
+  },
+  "story": [
+    {
+      "question": "How has total bike usage changed from 2019 to 2024?",
+      "insight": "Divvy bike usage rose 53.5% from 2019 to 2024, with highest ridership in 2024. Growth picked up after 2020, likely due to shifting commute habits. Recent increase from 2023 to 2024 was 2.5%."
+    },
+    {
+      "question": "What is the breakdown of rides by user type (members vs casual riders)?",
+      "insight": "Member rides consistently made up the majority of total rides, although casual ridership has grown strongly since 2020."
+    },
+    {
+      "question": "Are there seasonal or monthly trends in bike usage?",
+      "insight": "Bike usage in Chicago shows clear seasonality—peaking in June to August and dropping in winter. This pattern holds across years and user types. 2025 forecasts indicate continued growth, especially among members."
+    },
+    {
+      "question": "Which days of the week and hours of the day see the highest bike usage?",
+      "insight": "Weekday peaks occur during commute hours (around 7–9 AM and 4–6 PM). Weekend usage is steady from 10 AM to 7 PM, reflecting recreational patterns."
+    },
+    {
+      "question": "How do ride durations differ between members and casual users?",
+      "insight": "Casual users tend to have longer ride durations than members, reflecting leisure-focused trips versus quick commutes."
+    },
+    {
+      "question": "How does usage vary by bike type (classic, docked, electric)?",
+      "insight": "Classic and electric bikes dominate usage. Docked bikes also see substantial ridership, while electric scooters have the lowest usage among vehicle types."
+    },
+    {
+      "question": "What are the most popular start and end stations, and how have these changed over time?",
+      "insight": "Top stations stay consistent over time—Streeter Dr & Grand Ave leads from 2019 to 2024, while others shift year to year due to changing rider trends and infrastructure."
+    },
+    {
+      "question": "Are there geographic patterns or popular routes that city planners should focus on?",
+      "insight": "Bike usage is highest in central ZIP codes near downtown and the lakefront. Surrounding neighborhoods see moderate usage, while outer areas show minimal activity—highlighting potential spots for infrastructure investment. Most popular routes from 2019 to 2024 were round trips, especially around downtown and parks. Streeter Dr & Grand Ave was the top station for such rides."
+    }
+  ]
+}
